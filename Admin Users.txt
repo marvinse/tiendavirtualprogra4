@@ -1,0 +1,4 @@
+para entrar al login usar el usuario
+
+user: admin
+password: admin
